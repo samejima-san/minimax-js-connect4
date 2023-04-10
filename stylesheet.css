@@ -1,0 +1,26 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+h1{
+    margin-bottom:  5%;
+}
+
+.gameboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    height: 50%;
+    width: 50%;
+}
+
+.slot{
+    padding: 2vh;
+}
